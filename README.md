@@ -1,6 +1,6 @@
 # H∞(20) Spectral Simulation for Riemann Zeta Function Analysis
 
-This repository contains the numerical simulation and spectral comparison between a truncated 20×20 operator matrix \( \mathcal{H}_\infty^{(20)} \) and the imaginary parts of the first 15 nontrivial zeros of the Riemann zeta function \( \zeta(s) \).
+This repository contains the numerical simulation and spectral comparison between a truncated 20×20 operator matrix $\mathcal{H}_\infty^{(20)}$ and the imaginary parts of the first 15 nontrivial zeros of the Riemann zeta function $\zeta(s)$.
 
 ## Contents
 
